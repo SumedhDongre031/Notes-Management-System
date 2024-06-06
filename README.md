@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College-Notes-Gallery
 ## A notes management system which helps users to upload,download and manage notes of their particular course. The whole system is coded in core PHP and MySqli
 
@@ -72,3 +73,6 @@ Fashion Responsive Slider
 
 ### License
 College Notes Gallery is released under the MIT License
+=======
+# Notes-Management-System
+>>>>>>> 0b029de86b05689c16770d1761d18002577bdcad
